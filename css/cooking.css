@@ -1,5 +1,5 @@
 body{
-  background-color: #D5D6EA;
+  background-color: #BAB86C;
 }
 #grid{
   display: grid;
@@ -11,20 +11,20 @@ body{
 }
 #grid1 ul{
   color: gray;
-  font-size: 20px;
+  font-size: 1.25em;
 }
 #grid1 a{
   color: gray;
-  font-size: 20px;
+  font-size: 1em;
 }
 #grid2{
-  font-family: 'Lobster Two', cursive;
+  font-family: 'Lobster', cursive;
   padding-left: 15px;
   padding-top: 10px;
-  font-size: 17px;
+  font-size: 1.2em;
 }
 #grid2{
-  color: #36013F;
+  color: #3A3B3C;
   padding-left: 15px;
   padding-top: 10px;
 }
@@ -32,8 +32,11 @@ div{
   border: 1px solid white;
 }
 img{
-  width: 250px;
+  width: 40%;
+}
+iframe{
+  margin-top: 20px;
 }
 .maincategory{
-  text-shadow: 2px 2px #F8F8FF;
+  text-shadow: 2px 2px #FAF0DD;
 }
