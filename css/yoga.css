@@ -1,0 +1,33 @@
+body{
+  background-color: #D5D6EA;
+}
+#grid{
+  display: grid;
+  grid-template-columns: 150px 1fr;
+}
+#grid1{
+  background-color: white;
+  font-family: 'Alkalami', serif;
+}
+#grid1 ul{
+  color: gray;
+  font-size: 1.2em;
+}
+#grid1 a{
+  color: gray;
+  font-size: 1.2em;
+}
+#grid2{
+  font-family: 'Lobster Two', cursive;
+  padding-left: 15px;
+  padding-top: 10px;
+  font-size: 1.2em;
+}
+#grid2{
+  color: #36013F;
+  padding-left: 15px;
+  padding-top: 10px;
+}
+div{
+  border: 1px solid white;
+}
