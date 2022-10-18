@@ -11,17 +11,17 @@ body{
 }
 #grid1 ul{
   color: gray;
-  font-size: 1.2em;
+  font-size: 20px;
 }
 #grid1 a{
   color: gray;
-  font-size: 1.2em;
+  font-size: 20px;
 }
 #grid2{
   font-family: 'Lobster Two', cursive;
   padding-left: 15px;
   padding-top: 10px;
-  font-size: 1.2em;
+  font-size: 17px;
 }
 #grid2{
   color: #36013F;
