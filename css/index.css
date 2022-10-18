@@ -1,0 +1,55 @@
+body{
+  background-color: gray;
+}
+#yejin{
+  float: right;
+  margin-right: 25px;
+  margin-top: 15px;
+}
+#yejin img{
+  border-radius: 15%
+}
+#grid{
+  display: grid;
+  grid-template-columns: 150px 1fr;
+}
+#grid1{
+  background-color: white;
+  font-family: 'Alkalami', serif;
+}
+#grid1 ul{
+  color: gray;
+  font-size: 1.2em;
+}
+#grid1 a{
+  color: gray;
+  font-size: 1.2em;
+}
+#introduce{
+  margin-bottom: 50px;
+}
+
+#grid2{
+  font-family: 'Times New Roman', serif;
+  padding-left: 15px;
+  padding-top: 10px;
+  font-size: 1.1em;
+}
+#grid2{
+  font-family: 'Times New Roman', serif;
+  color: white;
+  padding-left: 15px;
+  padding-top: 10px;
+}
+.detail {
+  color: white;
+}
+.interest{
+  color: white;
+}
+.maincategory{
+  text-shadow: 2px 2px #5C5858;
+}
+div{
+  border: 1px solid white;
+}
