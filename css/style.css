@@ -25,11 +25,11 @@ li a:hover {
 .active {
   background-color: darkgray;
 }
-#cookingimg {
+.cookingimg {
   width: 20%;
   margin-bottom: 0.5em;
 }
-#yogaimg {
+.yogaimg {
   width: 250px;
   margin-bottom: 1em;
 }
