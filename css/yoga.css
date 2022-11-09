@@ -3,7 +3,8 @@
   margin: auto;
   padding: 0;
   background-color: white;
-  display: inline-block;
+  display: flex;
+  justify-content: center;
   text-align: center;
 }
 .nav li {
@@ -26,6 +27,7 @@ li a:hover {
 }
 img{
   width: 250px;
+  margin-bottom: 0.5em;
 }
 iframe{
   margin-top: 20px;
@@ -35,6 +37,12 @@ iframe{
   font-size: 2em;
   margin-bottom: 0.5em;
   margin-top: 0.5em;
+}
+h3{
+  margin-bottom: 0.7em;
+}
+p{
+  margin-bottom: 1em;
 }
 body{
   background-color: #D5D6EA;

@@ -3,8 +3,9 @@
   margin: auto;
   padding: 0;
   background-color: white;
-  display: inline-block;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 .nav li {
   float: left;
